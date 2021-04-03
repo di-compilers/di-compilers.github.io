@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "compilers_uoa.dwt" -->
+
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Compilers, University of Athens - Tools</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="no-cache" http-equiv="pragma" />
+<meta content="-1" http-equiv="expires" />
+<meta name="keywords" content="compilers, yannis smaragdakis, yannis, javacc, dragon book, flex, yacc, bison, jtb, visitor, sablecc, smaragdakis, smaragd, uoa, kapodistrian, nkua, γιάννης σμαραγδάκης, μεταγλωττιστές, μεταγλωττιστής, καποδιστριακό, σμαραγδάκης, ενδιάμεσος κώδικας, τελικός κώδικας, di.uoa.gr" />
+<!-- #BeginEditable "meta" -->
+<meta name="description" content="Tools usefull for the Compilers course." />
+<!-- #EndEditable -->
+<script language="javascript" type="text/javascript">
+
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+</script>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body style="position: absolute; top: 0px; left: 0px; width:100%; z-index: 1;">
+
+<table border="0" cellspacing="0" style="height:100%;" width="100%">
+        <tr style="background-color: #D5EDB3">
+                <td id="logo" align="center" colspan="5" style="height: 51px; white-space: nowrap" valign="bottom">
+                <a href="http://cgi.di.uoa.gr/~k31" style="text-decoration: none; color: #5C743D">
+                K31 C</a><a class="auto-style1" href="http://cgi.di.uoa.gr/~k31"><span class="auto-style2">ompilers</span></a></td>
+        </tr>
+        <tr style="background-color: #D5EDB3">
+                <td id="tagline" align="center" colspan="5" style="height: 51px" valign="top">
+                <span class="style4"><span>Spring&nbsp;Semester</span> 2021</span>
+                </td>
+        </tr>
+        <tr>
+                <td colspan="7" style="background-color: #5C743D">
+                <img alt="image" height="2" src="images/mm_spacer.gif" style="border: 0" width="1" /></td>
+        </tr>
+        <tr>
+                <td colspan="7" style="background-color: #99CC66; background: mm_dashed_line.gif">
+                <img alt="line decor" height="3" src="images/mm_dashed_line.gif" style="border: 0" width="4" /></td>
+        </tr>
+        <tr style="background-color: #99CC66">
+                <td id="dateformat" colspan="7" style="height: 20px">&nbsp;&nbsp;<script language="javascript" type="text/javascript">
+      document.write(TODAY);    </script> </td>
+        </tr>
+        <tr>
+                <td colspan="7" style="background: mm_dashed_line.gif; background-color: #99CC66; height: 3px">
+                <img alt="line decor" height="3" src="images/mm_dashed_line.gif" style="border: 0" width="4" /></td>
+        </tr>
+        <tr>
+                <td colspan="7" style="background-color: #5C743D">
+                <img alt="image" height="2" src="images/mm_spacer.gif" style="border: 0" width="1" /></td>
+        </tr>
+        <tr style="height:100%">
+                <td style="background-color: #5C743D; width: 165px;height:100%" valign="top" >
+                        <table id="navigation" cellpadding="0" cellspacing="0" style="border: 0; width: 165px;height:100%">
+                                <tr>
+                                        <td class="style4" style="height: 31px"><br /><br />
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td class="style4"><a class="navText" href="index.html">Compilers</a></td>
+                                </tr>
+                                <tr>
+                                        <td class="style4"><a class="navText" href="description.html">Course Description</a></td>
+                                </tr>
+                                <tr>
+                                        <td class="style4"><a class="navText" href="lectures.html">Lectures</a></td>
+                                </tr>
+                                <tr>
+                                        <td class="style4"><a class="navText" href="tutorials.html">Tutorials</a></td>
+                                </tr>
+                                <tr>
+                                        <td class="style4"><a class="navText" href="project.html">Project</a></td>
+                                </tr>
+                                <tr>
+					<td class="style4"><a class="navText" href="http://piazza.com/uoa.gr/spring2021/19809">Piazza course link</a></td>
+                                </tr>
+                                <tr>
+                                        <td class="style4"><a class="navText" href="tools.html">Compiler Tools</a></td>
+                                </tr>
+                                <tr style="height:100%">
+                                        <td>&nbsp;</td>
+                                </tr>
+                        </table>
+                </td>
+                <td style="width: 50px">
+                        <img alt="image" height="1" src="images/mm_spacer.gif" style="border: 0" width="50" />
+                </td>
+                <td colspan="2" valign="top">
+                        <p>
+                                <img alt="image" height="1" src="images/mm_spacer.gif" style="border: 0" width="305" />
+                                <br />
+
+                        </p>
+
+                                <!-- #BeginEditable "main_region" -->
+                <h1>Important tools for course and useful in
+                general </h1>
+
+
+
+                <ul>
+                        <li class="style3"><strong>JFlex</strong> tool for generating
+                        lexical analyzers for the Java programming language<br />
+                        <ul>
+                                <li>Website
+                                <a href="http://jflex.de/" target="_blank">http://jflex.de/</a></li>
+                                <li>
+                                <a href="http://jflex.de/jflex-1.6.0.zip" target="_blank">
+                                Download jflex in compressed form</a></li>
+                                <li>
+                                <a href="http://jflex.de/installing.html" target="_blank">
+                                Installation instructions</a></li>
+                                <li>
+                                <a href="http://jflex.de/manual.pdf" target="_blank">
+                                JFlex user manual</a></li>
+                                <li>You can also download it as jflex package for Debian or Ubuntu
+                                GNU/Linux (aptitude install jflex)</li>
+                                <li>
+                                Useful example/tutorial of JFlex specification file
+                                <a href="https://github.com/moy/JFlex/blob/master/jflex/examples/cup/lcalc.flex" target="_blank">
+                                to get started with</a></li>
+                        </ul>
+                </ul>
+
+                <ul>
+                        <li class="style3"><strong>Java CUP</strong> for generating
+                        bottom-up LALR parsers for the Java programming language<br />
+                        <ul>
+                                <li>Website <a href="http://www2.cs.tum.edu/projects/cup/" target="_blank">http://www2.cs.tum.edu/projects/cup/</a></li>
+                                <li><a href="http://www2.cs.tum.edu/projects/cup/install.php" target="_blank">
+                                Download page and usage instructions</a></li>
+                                <li>Download it in jar package form
+                                <a href="tools/sablecc32.jar" target="_blank">
+                                sablecc32.jar</a></li>
+                                <li>
+                                <a href="http://www2.cs.tum.edu/projects/cup/docs.php" target="_blank">
+                                Java CUP user manual</a></li>
+                                <li>
+                                A minimal calculator CUP specification file
+                                <a href="https://github.com/moy/JFlex/blob/master/jflex/examples/cup/lcalc.flex" target="_blank">
+                                to get started with</a></li>
+                        </ul>
+                        </li>
+                </ul>
+                <ul>
+                        <li class="style3"><strong>JavaCC</strong> tool for generating
+                        top-down LL(k) parsers and lexical analyzers for the Java
+                        programming language<br />
+                        <ul>
+                                <li>Website
+                                <a href="http://java.net/projects/javacc/" target="_blank">http://java.net/projects/javacc/</a></li>
+                                <li>
+                                <a href="http://java.net/projects/javacc/downloads/download/javacc-5.0.zip" target="_blank">
+                                Download javacc in compressed form</a></li>
+                                <li>Download it in jar package form
+                                <a href="tools/javacc5.jar" target="_blank">
+                                javacc5.jar</a></li>
+                                <li>You can download it as javacc package for Debian or Ubuntu
+                                GNU/Linux (aptitude install javacc)</li>
+                                <li>Documentation and grammar examples inside the zip file</li>
+                        </ul>
+                        </li>
+                </ul>
+                <ul>
+                        <li class="style3">&nbsp;<strong>JTB (Java Tree Builder)</strong>
+                        transforms javacc grammars in Java class hierarchies<ul>
+                                <li>Website
+                                <a href="http://compilers.cs.ucla.edu/jtb/" target="_blank">http://compilers.cs.ucla.edu/jtb/</a></li>
+                                <li><a href="http://compilers.cs.ucla.edu/jtb/Files/jtb132.jar" target="_blank">
+                                Download jtb132 in jar package form</a></li>
+                                <li>You can get our version of the file from
+                                <a href="tools/jtb132di.jar" target="_blank">
+                                jtb132di.jar</a></li>
+                                <li><span>The above&nbsp;version has&nbsp;some changes&nbsp;compared to
+                                the&nbsp;official&nbsp;that&nbsp;you may find useful</span></li>
+                        </ul></li>
+                </ul>
+
+
+                <p class="style1"><br />
+                <strong>Other useful tools:</strong> </p>
+                <ul>
+                        <li class="style3"><strong>Flex</strong> for generating lexical
+                        analyzers in C/C++<br />
+                        <ul>
+                                <li>Website (for POSIX systems like Linux, BSD, Unix*)
+                                <a href="http://flex.sourceforge.net/" target="_blank">http://flex.sourceforge.net/</a></li>
+                                <li>
+                                <a href="http://gnuwin32.sourceforge.net/packages/flex.htm" target="_blank">
+                                Implementation</a> of GNU (for POSIX systems and Windows)</li>
+                                <li>Manual at
+                                <a href="http://flex.sourceforge.net/manual/">http://flex.sourceforge.net/manual/</a></li>
+                        </ul>
+                        </li>
+                </ul>
+                <ul>
+                        <li class="style3"><strong>Bison</strong> for producing
+                        bottom-up LALR(1) parsers in C/C++
+                        <ul>
+                                <li class="style3">Website
+                                <a href="http://www.gnu.org/software/bison/">http://www.gnu.org/software/bison/</a></li>
+                                <li>
+                                <a href="http://gnuwin32.sourceforge.net/packages/bison.htm" target="_blank">
+                                Implementation</a> of GNU (for POSIX systems and Windows)</li>
+                                <li>Manual at<span class="style3">
+                                <a href="http://www.gnu.org/software/bison/manual/index.html">http://www.gnu.org/software/bison/manual/index.html</a></span></li>
+                        </ul>
+                        </li>
+                </ul>
+                <ul>
+                        <li class="style3"><strong>SableCC</strong> for generating
+                        bottom-up LALR(1) parsers and lexical analyzers for the Java
+                        programming language<br />
+                        <ul>
+                                <li>Website <a href="http://sablecc.org/" target="_blank">http://sablecc.org/</a></li>
+                                <li><a href="http://downloads.sourceforge.net/sablecc/sablecc-3.2.zip" target="_blank">
+                                Download sablecc in compressed from</a></li>
+                                <li>Download it in jar package form
+                                <a href="tools/sablecc32.jar" target="_blank">
+                                sablecc32.jar</a></li>
+                        </ul>
+                        </li>
+                </ul>
+                <ul>
+                        <li class="style3"><strong>SPIM</strong> tool for executing MIPS
+                        code<br />
+                        <ul>
+                                <li>Website
+                                <a href="http://pages.cs.wisc.edu/~larus/spim.html" target="_blank">
+                                http://pages.cs.wisc.edu/~larus/spim.html</a></li>
+                                <li>Download it from the above link and for platforms debian/ubuntu
+                                gnu/linux download the package "spim"</li>
+                        </ul>
+                        </li>
+                </ul>
+                <p>&nbsp;</p>
+
+
+
+      <ul>
+        <li class="style3">Εργαλείο <strong>Yacc</strong> για την παραγωγή συντακτικών αναλυτών (στο οποίο βασίστηκε το εργαλείο bison)</span>
+          <ul>
+            <li class="style3"><a href="yacc.pdf">Yacc: A Parser Generator. Άρθρο των S. C. Johnson και R. Sethi στον τόμο Unix Vol. II: research system (10η έκδοση).</a></span></li>Πολύ ενδιαφέρον άρθρο! Αξίζει να το διαβάσετε! Ίσως το μοναδικό άρθρο που εξηγεί πολύ καλά τη σχέση των
+          προγραμματιστικών τεχνικών του yacc (άρα και του bison) με τη θεωρία που παρουσιάζεται
+          στο Κεφάλαιο 5 του <A target=_ href=http://dragonbook.stanford.edu/>Dragon Book</A> και συζητήθηκε στην ενότητα του μαθήματος
+          με τίτλο "Μετάφραση οδηγούμενη από το συντακτικό".
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+                                <!-- #EndEditable -->
+                </td>
+                <td style="width: 50px">
+                        <img alt="image" height="1" src="images/mm_spacer.gif" style="border: 0" width="50" />
+                </td>
+        </tr>
+</table>
+<noscript>Your browser does not support JavaScript!</noscript>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

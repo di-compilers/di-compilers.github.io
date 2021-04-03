@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/</loc>
+  <lastmod>2012-03-12T19:06:54+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/index.html</loc>
+  <lastmod>2012-03-12T19:06:54+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/description.html</loc>
+  <lastmod>2012-03-12T19:03:59+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/lectures.html</loc>
+  <lastmod>2012-03-12T19:03:59+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/tutorials.html</loc>
+  <lastmod>2012-03-12T19:04:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/project.html</loc>
+  <lastmod>2012-03-12T19:04:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/tools.html</loc>
+  <lastmod>2012-03-12T19:03:59+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/index.html</loc>
+  <lastmod>2011-04-15T16:22:04+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/index.html</loc>
+  <lastmod>2011-02-22T13:14:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/index.html</loc>
+  <lastmod>2010-04-20T12:37:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/index.html</loc>
+  <lastmod>2010-04-20T12:40:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/06_07/index.html</loc>
+  <lastmod>2010-04-20T12:40:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/lectures/lecture-01.pdf</loc>
+  <lastmod>2012-03-07T11:15:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/lectures/lecture-02.pdf</loc>
+  <lastmod>2011-02-24T19:20:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/lectures/lecture-03.pdf</loc>
+  <lastmod>2012-03-08T14:24:43+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/description.html</loc>
+  <lastmod>2011-02-26T14:17:24+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures.html</loc>
+  <lastmod>2011-05-28T09:05:24+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/tutorials.html</loc>
+  <lastmod>2011-03-17T20:18:37+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/project.html</loc>
+  <lastmod>2011-06-02T11:21:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/tools.html</loc>
+  <lastmod>2011-05-30T20:44:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/description.html</loc>
+  <lastmod>2011-02-22T13:46:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures.html</loc>
+  <lastmod>2011-02-22T13:39:17+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials.html</loc>
+  <lastmod>2011-02-22T13:46:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/project.html</loc>
+  <lastmod>2011-02-22T13:46:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tools.html</loc>
+  <lastmod>2011-02-22T13:46:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/compilers2010_grades_anounce.htm</loc>
+  <lastmod>2010-07-15T10:15:23+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/themata.doc</loc>
+  <lastmod>2009-06-10T10:05:15+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/description.html</loc>
+  <lastmod>2010-04-20T12:38:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures.html</loc>
+  <lastmod>2010-04-20T12:38:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/tutorials.html</loc>
+  <lastmod>2010-04-20T12:38:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/project.html</loc>
+  <lastmod>2010-04-20T12:38:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/tools.html</loc>
+  <lastmod>2010-04-20T12:38:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/vathmoi_compilers2009_final_withAM.pdf</loc>
+  <lastmod>2009-10-12T14:23:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/description.html</loc>
+  <lastmod>2010-04-20T12:40:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures.html</loc>
+  <lastmod>2010-04-20T12:40:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/tutorials.html</loc>
+  <lastmod>2010-04-20T12:40:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/project.html</loc>
+  <lastmod>2010-04-20T12:40:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/tools.html</loc>
+  <lastmod>2010-04-20T12:40:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/themata.doc</loc>
+  <lastmod>2007-06-28T07:29:15+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/06_07/description.html</loc>
+  <lastmod>2010-04-20T12:40:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/06_07/lectures.html</loc>
+  <lastmod>2010-04-20T12:40:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/06_07/tutorials.html</loc>
+  <lastmod>2010-04-20T12:40:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/06_07/project.html</loc>
+  <lastmod>2010-04-20T12:40:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/06_07/tools.html</loc>
+  <lastmod>2010-04-20T12:40:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/lecture-01.pdf</loc>
+  <lastmod>2011-02-23T11:46:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/lecture-02.pdf</loc>
+  <lastmod>2011-02-24T19:20:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/lecture-03.pdf</loc>
+  <lastmod>2011-06-22T12:57:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/top-down-parsers.pdf</loc>
+  <lastmod>2011-02-23T12:12:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/static+type-checking.pdf</loc>
+  <lastmod>2011-03-15T17:56:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/visitor.pdf</loc>
+  <lastmod>2011-03-15T23:23:05+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/lowering.pdf</loc>
+  <lastmod>2011-03-24T14:34:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/bottom-up-parsers.pdf</loc>
+  <lastmod>2011-04-15T15:04:24+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/optimization.pdf</loc>
+  <lastmod>2011-05-12T13:38:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/register-allocation.pdf</loc>
+  <lastmod>2011-05-12T11:15:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/lectures/instruction-selection.pdf</loc>
+  <lastmod>2011-05-28T09:01:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/asm-example/print-run.txt</loc>
+  <lastmod>2011-06-01T02:14:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga.html</loc>
+  <lastmod>2011-05-13T07:14:37+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet.html</loc>
+  <lastmod>2002-06-27T20:47:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet.html</loc>
+  <lastmod>2002-06-27T20:47:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava.html</loc>
+  <lastmod>2009-03-30T15:58:03+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/cintro1spp.pdf</loc>
+  <lastmod>2010-02-18T09:59:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/cintro2spp.pdf</loc>
+  <lastmod>2010-02-18T09:59:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/lexi1spp.pdf</loc>
+  <lastmod>2010-02-18T09:59:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/lexi2spp.pdf</loc>
+  <lastmod>2010-02-18T09:59:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/syn1spp.pdf</loc>
+  <lastmod>2010-03-09T16:19:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/syn2spp.pdf</loc>
+  <lastmod>2010-03-09T16:19:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/parse-top-down1spp.pdf</loc>
+  <lastmod>2010-03-18T10:24:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/parse-top-down2spp.pdf</loc>
+  <lastmod>2010-03-18T10:24:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/parse-bottom-up1spp.pdf</loc>
+  <lastmod>2010-04-26T16:46:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/parse-bottom-up2spp.pdf</loc>
+  <lastmod>2010-04-26T16:46:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/syntax-directed-translation-and-bison1spp.pdf</loc>
+  <lastmod>2010-04-29T10:03:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/syntax-directed-translation-and-bison2spp.pdf</loc>
+  <lastmod>2010-04-29T10:03:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/static-checking1spp.pdf</loc>
+  <lastmod>2010-05-06T10:34:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/static-checking2spp.pdf</loc>
+  <lastmod>2010-05-06T10:34:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/intermediate-part1-1spp.pdf</loc>
+  <lastmod>2010-05-13T11:20:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/intermediate-part1-2spp.pdf</loc>
+  <lastmod>2010-05-13T11:20:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/intermediate-part2-1spp.pdf</loc>
+  <lastmod>2010-05-13T11:20:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/intermediate-part2-2spp.pdf</loc>
+  <lastmod>2010-05-13T11:20:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/code1spp.pdf</loc>
+  <lastmod>2010-05-17T13:01:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/lectures/code2spp.pdf</loc>
+  <lastmod>2010-05-17T13:01:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/flex.pdf</loc>
+  <lastmod>2009-03-23T14:55:09+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/bison-introduction.ppt</loc>
+  <lastmod>2010-03-23T16:00:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/bison-conflicts.ppt</loc>
+  <lastmod>2010-04-13T11:33:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/bison-error-recovery.ppt</loc>
+  <lastmod>2010-04-13T11:34:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/symbol-table.ppt</loc>
+  <lastmod>2010-04-27T10:37:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/symbol_table-semantic-check.ppt</loc>
+  <lastmod>2010-05-04T11:55:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/intermediate_code_part1.ppt</loc>
+  <lastmod>2010-05-11T14:45:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/tutorials/intermediate_code_part2.ppt</loc>
+  <lastmod>2010-05-25T13:37:37+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/robin_2010.pdf</loc>
+  <lastmod>2010-05-09T10:17:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/09_10/yacc.pdf</loc>
+  <lastmod>2007-05-29T12:55:36+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/cintro-1spp.pdf</loc>
+  <lastmod>2009-03-19T12:24:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/cintro-2spp.pdf</loc>
+  <lastmod>2009-03-19T12:24:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/lexi1spp.pdf</loc>
+  <lastmod>2009-03-19T12:24:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/lexi2spp.pdf</loc>
+  <lastmod>2009-03-19T12:24:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/syn1spp.pdf</loc>
+  <lastmod>2009-07-14T11:18:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/syn2spp.pdf</loc>
+  <lastmod>2009-07-14T11:18:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/parse-top-down1spp.pdf</loc>
+  <lastmod>2009-03-26T10:40:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/parse-top-down2spp.pdf</loc>
+  <lastmod>2009-03-26T10:40:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/parse-bottom-up1spp.pdf</loc>
+  <lastmod>2009-04-10T19:25:23+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/parse-bottom-up2spp.pdf</loc>
+  <lastmod>2009-04-10T19:25:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/syntax-directed-translation-and-bison1spp.pdf</loc>
+  <lastmod>2009-05-07T20:11:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/syntax-directed-translation-and-bison2spp.pdf</loc>
+  <lastmod>2009-05-07T20:11:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/intermediate-part11spp.pdf</loc>
+  <lastmod>2009-05-28T09:37:15+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/intermediate-part12spp.pdf</loc>
+  <lastmod>2009-05-28T09:37:15+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/intermediate-part2-1spp.pdf</loc>
+  <lastmod>2009-05-28T13:23:23+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/intermediate-part2-2spp.pdf</loc>
+  <lastmod>2009-05-28T13:23:23+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/code1spp.pdf</loc>
+  <lastmod>2009-07-14T11:21:49+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/lectures/code2spp.pdf</loc>
+  <lastmod>2009-07-14T11:21:49+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/tutorials/tutorial2.ppt</loc>
+  <lastmod>2009-03-30T08:51:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/tutorials/tutorial3.ppt</loc>
+  <lastmod>2008-04-09T22:10:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/tutorials/error-recovery.ppt</loc>
+  <lastmod>2009-04-27T09:45:37+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/tutorials/tutorial4.ppt</loc>
+  <lastmod>2009-04-29T19:45:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/tutorials/tutorial5.ppt</loc>
+  <lastmod>2009-05-22T12:33:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/08_09/Floop2009.pdf</loc>
+  <lastmod>2009-03-17T21:20:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/cintro-1spp.pdf</loc>
+  <lastmod>2007-04-23T13:12:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/cintro-2spp.pdf</loc>
+  <lastmod>2007-04-23T13:12:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/lexi-1spp.pdf</loc>
+  <lastmod>2007-04-23T13:12:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/lexi-2spp.pdf</loc>
+  <lastmod>2007-04-23T13:12:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/syn1spp.pdf</loc>
+  <lastmod>2007-04-27T13:39:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/syn2spp.pdf</loc>
+  <lastmod>2007-04-27T13:39:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/parse-top-down1spp.pdf</loc>
+  <lastmod>2007-05-07T07:56:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/parse-top-down2spp.pdf</loc>
+  <lastmod>2007-05-07T07:56:29+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/parse-bottom-up1spp.pdf</loc>
+  <lastmod>2007-05-24T09:08:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/syntax-directed-translation-and-bison1spp.pdf</loc>
+  <lastmod>2008-05-08T08:46:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/syntax-directed-translation-and-bison2spp.pdf</loc>
+  <lastmod>2008-05-08T08:47:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/static-checking1spp.pdf</loc>
+  <lastmod>2008-05-08T08:45:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/static-checking2spp.pdf</loc>
+  <lastmod>2008-05-08T08:45:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/intermediate-part1-1spp.pdf</loc>
+  <lastmod>2008-05-22T15:00:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/intermediate-part1-2spp.pdf</loc>
+  <lastmod>2008-05-22T15:01:03+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/intermediate-part2-1spp.pdf</loc>
+  <lastmod>2008-05-22T15:01:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/intermediate-part2-2spp.pdf</loc>
+  <lastmod>2008-05-22T15:01:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/code1spp.pdf</loc>
+  <lastmod>2008-06-12T11:16:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/lectures/code2spp.pdf</loc>
+  <lastmod>2008-06-12T11:17:04+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/07_08/nerd2008.pdf</loc>
+  <lastmod>2008-03-13T19:07:57+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=N;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=M;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=S;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=D;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/</loc>
+  <lastmod>2011-04-15T16:22:04+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=N;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=M;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=S;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=D;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=N;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=M;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=S;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=D;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=N;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=M;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=S;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=D;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=N;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=M;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=S;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/kanga-examples/?C=D;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=N;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=M;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=S;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/spiglet-examples/?C=D;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=N;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=M;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=S;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/minijava-examples/?C=D;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=N;O=A</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=M;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=S;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cgi.di.uoa.gr/~thp06/10_11/piglet-examples/?C=D;O=D</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+</urlset>
